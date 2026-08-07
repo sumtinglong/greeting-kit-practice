@@ -8,6 +8,6 @@ A tiny utility for generating friendly greetings.
 python greet.py World
 ```
 
-## Instalation
+## Installation
 
 No dependencies required — just Python 3.
